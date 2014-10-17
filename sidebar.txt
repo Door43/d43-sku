@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sku:home|Door43 (sku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sku|d43-sku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sku/archive/master.zip|d43-sku.zip]]
+
+**Recent Changes**
+{{changes>ns = sku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sku|Ethnologue data]]
+
